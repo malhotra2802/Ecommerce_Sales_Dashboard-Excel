@@ -32,7 +32,7 @@ Amazon is the leading channel with about 35% of orders, then Myntra (23%) and Fl
 ---
 
 ## 📈 Headline Numbers
-- Total sales: about ₹21.2M from 31,047 order records (average order value about ₹682)
+- Total sales: about ₹21.2M from 31,000+ order records.
 - Women drive 64% of sales and 69% of orders
 - 92% of orders are delivered; 8% are returned, cancelled or refunded
 - Sales peak in March (about ₹1.93M) and fall to a low in November (about ₹1.62M)
